@@ -1,0 +1,20 @@
+[project]
+name = "agenticRAG"
+version = "0.0.1"
+description = "Retrieval Augmented Generation project using agents"
+license = { file = "LICENSE" }
+readme = "README.md"
+authors = { name = "Antonio Menta"}
+requires-python = ">=3.9"
+keywords = [
+    "LLM",
+    "Agents",
+    "NLP",
+    "RAG",
+]
+dependencies = [
+
+]
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
