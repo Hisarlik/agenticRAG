@@ -4,7 +4,7 @@ version = "0.0.1"
 description = "Retrieval Augmented Generation project using agents"
 license = { file = "LICENSE" }
 readme = "README.md"
-authors = { name = "Antonio Menta"}
+authors = [{ name = "Antonio Menta"}]
 requires-python = ">=3.9"
 keywords = [
     "LLM",
