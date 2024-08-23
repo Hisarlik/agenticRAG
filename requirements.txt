@@ -1,3 +1,7 @@
 pre-commit==3.8.0
 ruff
 pytest
+jupyter
+llama-index
+llama_index.embeddings.huggingface
+llama_index.llms.ollama
